@@ -1,3 +1,6 @@
+212223060313
+YUGANTHIRAN P S 
+
 ## CLOUD-STORAGE-CREATION-S3-AND-LAUNCHING-AN-EC2-INSTANCE-IN-AWS-
 ## AIM :
 To create an AWS account, set up a root user, and create an IAM user with specified permissions.
